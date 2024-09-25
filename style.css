@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 255, 255);
+  } 
+
+
+h1{
+     color: #7b8bf5;
+    }
+
+    p{
+        color: #000000;
+    }
+
+.mytext{
+    background-color: hsl(0, 0%, 100%);
+    
+}
+
+a{
+    text-decoration: none;
+    color: #86d5ff;
+}
+
+a:hover{
+    color: #00b3ff;
+}
