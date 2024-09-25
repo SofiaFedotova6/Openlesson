@@ -24,3 +24,13 @@ a{
 a:hover{
     color: #00b3ff;
 }
+
+nav{
+    background-color: rgb(204, 255, 154);
+}
+
+article{
+    width: 899px; 
+    /* width= ширина */
+     background-color: aquamarine;
+}

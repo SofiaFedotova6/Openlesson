@@ -1,26 +1,5 @@
-body{
-    background-color: rgb(255, 255, 255);
-  } 
+@import "resent.css";
+@import "style.css";
+@import "nav.css";
 
 
-h1{
-     color: #54ff11;
-    }
-
-    p{
-        color: #000000;
-    }
-
-.mytext{
-    background-color: hsl(0, 0%, 100%);
-    
-}
-
-a{
-    text-decoration: none;
-    color: #00ff6a;
-}
-
-a:hover{
-    color: #00b3ff;
-}
