@@ -1,6 +1,6 @@
 nav{
-    background: #eee; /*  background - цвет фона */
-    border: 1px solid rgb(71, 86, 121);  /* border - обводка */
+    background: #d6ecff; /*  background - цвет фона */
+    border: 1px solid rgb(225, 0, 255);  /* border - обводка */
     width: 300px; /* ширина нашего навигационного меню ( списка )*/
     position: fixed;   /* позиция привязана к точке на экране */
     top: 45px;

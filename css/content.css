@@ -1,9 +1,9 @@
 body{
-    background: rgb(248, 232, 234)
+    background: rgb(255, 255, 255)
 }
 
 .mytext{
-    color: cadetblue;
+    color: rgba(53, 89, 250, 0.976);
     margin-top: 8px;
     /* color: rgba(0, 0, 0, 0.4); */
     font-size: 22px;
@@ -12,12 +12,12 @@ body{
 
 a{
     text-decoration: none;
-    color:rgb(64, 169, 235) ;
+    color:rgb(247, 132, 255) ;
 }
 
 
 a:hover{
-    color:rgb(221, 85, 85) ;
+    color:rgb(83, 0, 142) ;
 }
 .pic1{
     width: 25%;  /* width -  ширина в данном случае картинки  */
@@ -26,20 +26,20 @@ a:hover{
 }
 article{
     width: 700px ;
-    background-color: rgb(159, 216, 216);
+    background-color: rgb(255, 255, 255);
     margin: 150px auto;
 }  
 h1{
-    color: rgb(64, 169, 235);
+    color: rgb(30, 0, 255);
     font-size: 38px;
     margin-top: 66px;
     line-height: 45px;
-    background-color: lemonchiffon;
+    background-color: rgb(255, 255, 255);
 }
 
 h1 + hr + p + p {
    margin-top: 8px;
-   color: rgba(0, 0, 0, 0.289);
+   color: rgba(0, 0, 0, 0.704);
    font-size: 22px;
    line-height:32px ;
 }
@@ -48,7 +48,7 @@ h2{
   margin-top: 50ps;
   font-size:  32px; 
   line-height:  36px; 
-  color: rgba(0, 0, 0, 0.097);
+  color: rgba(0, 0, 0, 0.754);
 }
 
 h2+blockquote,h2 + p{
